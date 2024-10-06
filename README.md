@@ -19,8 +19,7 @@ Git clone git@github.com:CorneliusKibetDC/phase-1-tasklister-mini-project.git
 ```
 
 # Live Link
-https://github.com/CorneliusKibetDC/CodeChallengeWeek1
-
+https://github.com/CorneliusKibetDC/phase-1-tasklister-mini-project
 ## Technologies used
 Javascript, and HTML
 ## Support and contact details
